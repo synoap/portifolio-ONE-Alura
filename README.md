@@ -1,6 +1,6 @@
 ```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio da Alura ONE.
+### Portfólio Olá, Bem vindo ao meu projeto de portfólio da Alura ONE.
 
 ## Ferramentas utilizadas:
 
