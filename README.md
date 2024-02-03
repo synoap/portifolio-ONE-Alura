@@ -1,9 +1,12 @@
+
+# Projeto de portfolio da Alura ONE!
+
+Projeto de portfolio da Alura ONE para treinar habilidades front-end.
+## Demonstração
+
+### Ferramentas utilizadas:
+
 ```
-
-### Portfólio Olá, Bem vindo ao meu projeto de portfólio da Alura ONE.
-
-## Ferramentas utilizadas:
-
 * HTML5
 
 * CSS3
